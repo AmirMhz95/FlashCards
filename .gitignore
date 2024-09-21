@@ -1,0 +1,34 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE settings
+.vs/
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package directories
+packages/
+.nuget/
+
+# Log files
+*.log
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.ilk
+
+# NuGet packages
+*.nupkg
+*.snupkg
